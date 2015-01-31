@@ -6,3 +6,5 @@ A list of well written documentation I've come across
 * [Arch Linux](https://wiki.archlinux.org/)
 * [Chrome extensions](https://developer.chrome.com/extensions)
 * [Bootstrap](http://getbootstrap.com/)
+* [SQLAlchemy](http://docs.sqlalchemy.org/en/latest/)
+* [PostgreSQL](http://www.postgresql.org/docs)
